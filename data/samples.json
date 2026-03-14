@@ -1,0 +1,1071 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "previous_context": "'Janice, this report is full of mistakes,' Janice's boss remarked.",
+      "dialogue": "'Wow, a true masterpiece of accuracy,' Janice's coworker joked.",
+      "after_context": "'I'm sorry, I'll fix it right away,' Janice replied.",
+      "sarcastic": true
+    },
+    {
+      "id": 2,
+      "previous_context": "'Janice, we've been waiting for you to finish typing that email for ten minutes,' her manager complained.",
+      "dialogue": "'Take your time, Janice. We've got all day,' her coworker quipped.",
+      "after_context": "'I'm almost done, I promise,' Janice responded.",
+      "sarcastic": true
+    },
+    {
+      "id": 3,
+      "previous_context": "'Michael accidentally burned the toast again,' Sarah noted.",
+      "dialogue": "'Chef of the year right here,' David joked.",
+      "after_context": "'Hey, cooking is harder than it looks,' Michael protested.",
+      "sarcastic": true
+    },
+    {
+      "id": 4,
+      "previous_context": "'Mike walked into the meeting without wearing a shirt,' Karen whispered.",
+      "dialogue": "'Mike is a true professional,' Tom muttered.",
+      "after_context": "'I spilled coffee on my shirt this morning,' Mike explained.",
+      "sarcastic": true
+    },
+    {
+      "id": 5,
+      "previous_context": "'Leo finally finished the tiny task after three hours,' the supervisor observed.",
+      "dialogue": "'We're really going to miss such a great employee like you, Leo,' a coworker remarked dryly.",
+      "after_context": "'I was trying to be thorough,' Leo insisted.",
+      "sarcastic": true
+    },
+    {
+      "id": 6,
+      "previous_context": "'Paul pressed the same broken button again,' the technician reported.",
+      "dialogue": "'Brilliant strategy, Paul. I'm sure it will work the next time,' Anna said sarcastically.",
+      "after_context": "'I'm just trying everything I can think of,' Paul replied.",
+      "sarcastic": true
+    },
+    {
+      "id": 7,
+      "previous_context": "'Kate answered every math question incorrectly in the competition,' the judge announced.",
+      "dialogue": "'Wow, we're definitely getting to the next round,' her teammate sighed.",
+      "after_context": "'I thought those answers looked right,' Kate admitted.",
+      "sarcastic": true
+    },
+    {
+      "id": 8,
+      "previous_context": "Mona walked into the meeting thirty minutes late.",
+      "dialogue": "'Did you get enough beauty sleep, Mona?' her coworker teased.",
+      "after_context": "'Traffic was terrible today,' Mona explained.",
+      "sarcastic": true
+    },
+    {
+      "id": 9,
+      "previous_context": "Isaac looked outside and saw heavy rain during the beach trip.",
+      "dialogue": "'My favorite kind of weather,' Isaac muttered.",
+      "after_context": "'I was really hoping for sunshine today,' he added.",
+      "sarcastic": true
+    },
+    {
+      "id": 10,
+      "previous_context": "The Wi-Fi disconnected again during the presentation.",
+      "dialogue": "'Great, this is just how I wanted it to go,' Mark grumbled.",
+      "after_context": "Mark waited in anticipation for the Wi-Fi to reconnect.",
+      "sarcastic": true
+    },
+    {
+      "id": 11,
+      "previous_context": "Jane opened her laptop to find that it had frozen and was unresponsive.",
+      "dialogue": "'Exactly what I needed right now,' Jenna muttered.",
+      "after_context": "'This update is going to take twenty minutes,' she groaned.",
+      "sarcastic": true
+    },
+    {
+      "id": 12,
+      "previous_context": "'The printer jammed for the third time today,' the office assistant groaned.",
+      "dialogue": "'Modern engineering at its finest,' Derek remarked.",
+      "after_context": "'I'll try clearing the paper again,' the assistant sighed.",
+      "sarcastic": true
+    },
+    {
+      "id": 13,
+      "previous_context": "Petra slumped on her desk after accidentally deleting an important document.",
+      "dialogue": "'Well, that's just fantastic,' Petra muttered.",
+      "after_context": "'Now I have to write the whole thing again,' she added.",
+      "sarcastic": true
+    },
+    {
+      "id": 14,
+      "previous_context": "The GPS directed them down a dead-end street.",
+      "dialogue": "'Great, we definitely won't be late this time,' Emma sighed.",
+      "after_context": "'Maybe we should try another route,' Liam suggested.",
+      "sarcastic": true
+    },
+    {
+      "id": 15,
+      "previous_context": "The video call froze right before the big announcement.",
+      "dialogue": "Alex gulped nervously and tried refreshing the screen to no aval. 'This is such perfect timing,' he muttered.",
+      "after_context": "'Let me reconnect quickly,' he said to his manager.",
+      "sarcastic": true
+    },
+    {
+      "id": 16,
+      "previous_context": "'You stayed late to help me finish this project,' Olivia said gratefully.",
+      "dialogue": "'I'm really grateful for your help,' Olivia told Daniel.",
+      "after_context": "'I'm glad I could help,' Daniel replied, smiling.",
+      "sarcastic": false
+    },
+    {
+      "id": 17,
+      "previous_context": "'The team finished the difficult project ahead of schedule,' the supervisor announced.",
+      "dialogue": "'Great work, everyone,' the supervisor praised.",
+      "after_context": "'Thank you, we worked really hard on it,' the team leader replied.",
+      "sarcastic": false
+    },
+    {
+      "id": 18,
+      "previous_context": "Finally after watching endless tutorials, Mia understood how to solve the math problem.",
+      "dialogue": "'That explanation helped a lot,' Mia commented.",
+      "after_context": "She smiled, happy to have finally grasped the concept.",
+      "sarcastic": false
+    },
+    {
+      "id": 19,
+      "previous_context": "Mia and Josh were so excited to get married.",
+      "dialogue": "'I love you and everything we have,' Josh said while beaming at his beautiful bride.",
+      "after_context": "'I can't wait to spend forever with you,' Mia replied.",
+      "sarcastic": false
+    },
+    {
+      "id": 20,
+      "previous_context": "'I just found out I got the scholarship,' Ethan announced.",
+      "dialogue": "'I'm really proud of you,' his sister said.",
+      "after_context": "Although she was feeling a bit jealous, she was happy for her brother's success.",
+      "sarcastic": false
+    },{
+      "id": 21,
+      "previous_context": "The car stopped working in the middle of the road.",
+      "dialogue": "'Well, that's mildly inconvenient,' Jake sighed.",
+      "after_context": "'I guess we should call a tow truck,' Sam suggested.",
+      "sarcastic": true
+    },
+    {
+      "id": 22,
+      "previous_context": "The storm flooded the entire basement overnight.",
+      "dialogue": "'This is exactly how I wanted to spend Saturday night,' Rachel muttered.",
+      "after_context": "'We need to start cleaning this up immediately,' Tom urged.",
+      "sarcastic": true
+    },
+    {
+      "id": 23,
+      "previous_context": "The laptop slipped off the desk and shattered.",
+      "dialogue": "'Well that's a slight issue,' Ben raged.",
+      "after_context": "'I guess I need a new computer,' he said with defeat.",
+      "sarcastic": true
+    },
+    {
+      "id": 24,
+      "previous_context": "The traffic jam stretched for miles.",
+      "dialogue": "'Just a tiny delay,' Olivia joked.",
+      "after_context": "'We might be here for a while,' Jake replied.",
+      "sarcastic": true
+    },
+    {
+      "id": 25,
+      "previous_context": "'You helped me study all week for this exam,' Anna said gratefully.",
+      "dialogue": "'Thank you for supporting me,' Anna told Chris.",
+      "after_context": "'Of course. I'm glad it helped,' Chris replied.",
+      "sarcastic": false
+    },{
+      "id": 26,
+      "previous_context": "Kevin froze in shock as he realized he accidentally deleted the entire shared folder.",
+      "dialogue": "'Great move, Kevin. That was exactly what we needed today,' Laura remarked dryly.",
+      "after_context": "'I thought I was deleting something else,' Kevin admitted.",
+      "sarcastic": true
+    },
+    {
+      "id": 27,
+      "previous_context": "David arrived late to the meeting again.",
+      "dialogue": "'Right on time, David,' Hannah joked.",
+      "after_context": "'Sorry everyone, the baby was so fussy this morning,' David explained.",
+      "sarcastic": true
+    },
+    {
+      "id": 28,
+      "previous_context": "Sarah spilled her drink all over the conference table.",
+      "dialogue": "'This is just perfect,' Michael muttered.",
+      "after_context": "'I'll grab some paper towels,' Sarah said quickly.",
+      "sarcastic": true
+    },
+    {
+      "id": 29,
+      "previous_context": "Anna was excited to share her poetry at the convention but froze when she saw who was in the crowd.",
+      "dialogue": "'Oh god, it's my ex. Just the person I wanted to see,' Anna sighed.",
+      "after_context": "'Do you want me to kick him out?', her friend offered.",
+      "sarcastic": true
+    },
+    {
+      "id": 30,
+      "previous_context": "It was his first date in a long time and he was clearly out of practice.",
+      "dialogue": "'You're probably thinking you scored big with me,' he teased.",
+      "after_context": "His date cringed at the awkward attempt at flirting.",
+      "sarcastic": true
+    },
+    {
+      "id": 31,
+      "previous_context": "Emma froze at the taste of the soup she had clearly oversalted",
+      "dialogue": "'Wow, delicious', she said with a forced smile.",
+      "after_context": "'Maybe I should have added some potatoes,' she muttered under her breath.",
+      "sarcastic": true
+    },
+    {
+      "id": 32,
+      "previous_context": "Rachel squashed her foot down on her partner's toe.",
+      "dialogue": "'You're a great dancer,' he bit out as he swore in pain.",
+      "after_context": "'I'm so sorry,' Rachel cried.",
+      "sarcastic": true
+    },
+    {
+      "id": 33,
+      "previous_context": "Kate and Ashely were heading to the car.",
+      "dialogue": "They got in and started blasting their favorite music.",
+      "after_context": "'I literally love this song,' Kate squealed in delight.",
+      "sarcastic": false
+    },
+    {
+      "id": 34,
+      "previous_context": "Jessica tripped while walking confidently into the room.",
+      "dialogue": "She got up quickly and brushed herself off.",
+      "after_context": "'That floor is slippery,' Jessica joked.",
+      "sarcastic": false
+    },
+    {
+      "id": 35,
+      "previous_context": "Mark had lost his phone, missed a job interview, and spilled coffee on his shirt all in the same day.",
+      "dialogue": "He was clearly having the time of his life.",
+      "after_context": "What else could go wrong?",
+      "sarcastic": true
+    },
+
+    {
+      "id": 36,
+      "previous_context": "The phone battery died right before Maya could show the ticket.",
+      "dialogue": "'Perfect timing,' Maya groaned.",
+      "after_context": "'I swear it had twenty percent earlier,' she added.",
+      "sarcastic": true
+    },
+    {
+      "id": 37,
+      "previous_context": "Ryan missed the target by a mile during archery practice.",
+      "dialogue": "'What precision, Ryan,' the coach said dryly.",
+      "after_context": "'I'll get the next one,' Ryan promised.",
+      "sarcastic": true
+    },
+    {
+      "id": 38,
+      "previous_context": "'Alex assembled the chair backward,' Jamie noted.",
+      "dialogue": "'Engineering brilliance, Alex,' Jamie joked.",
+      "after_context": "'The instructions were confusing,' Alex argued.",
+      "sarcastic": true
+    },
+    {
+      "id": 39,
+      "previous_context": "'The streaming video buffered for the fifth time,' Lucas complained.",
+      "dialogue": "'Crystal clear playback,' Lucas muttered.",
+      "after_context": "'Maybe the internet will improve soon,' Ava suggested.",
+      "sarcastic": true
+    },
+    {
+      "id": 40,
+      "previous_context": "'Mark dropped the stack of boxes he was carrying,' Peter observed.",
+      "dialogue": "'Graceful as always, Mark,' Peter teased.",
+      "after_context": "'Those boxes were heavier than they looked,' Mark explained.",
+      "sarcastic": true
+    },
+
+    {
+      "id": 41,
+      "previous_context": "The website crashed right when Emily clicked submit.",
+      "dialogue": "With the clock counting down, there was no way she would make the deadline.",
+      "after_context": "'Now I have to start over,' she groaned.",
+      "sarcastic": false
+    },
+    {
+      "id": 42,
+      "previous_context": "Nick forgot the presentation he was supposed to give.",
+      "dialogue": "'Prepared as always, Nick,' the manager said dryly.",
+      "after_context": "'I left my laptop at home,' Nick admitted.",
+      "sarcastic": true
+    },
+    {
+      "id": 43,
+      "previous_context": "Olivia knocked over the fragile and expensive vase while cleaning.",
+      "dialogue": "'Well that wasn't worth anything,' the store manager muttered.",
+      "after_context": "'It slipped away from me,' Olivia explained.",
+      "sarcastic": true
+    },
+    {
+      "id": 44,
+      "previous_context": "Julia struggled to figure out how to turn on the new lamp.",
+      "dialogue": "'No wonder I got promoted at work,' Julia remarked sarcastically.",
+      "after_context": "'I can't even get this lamp to turn on,' she cried.",
+      "sarcastic": true
+    },
+    {
+      "id": 45,
+      "previous_context": "Aaron said the puzzle would be easy but couldn't solve it.",
+      "dialogue": "'A strategic mastermind, Aaron,' Mia teased.",
+      "after_context": "'Okay, maybe it's harder than I thought,' Aaron admitted.",
+      "sarcastic": true
+    },
+
+    {
+      "id": 46,
+      "previous_context": "Sarah was walking through the park, letting the sun soak on her skin.",
+      "dialogue": "She smiled as the birds chirped and the breeze blew through her hair.",
+      "after_context": "It was feeling like a truly perfect day.",
+      "sarcastic": false
+    },
+    {
+      "id": 47,
+      "previous_context": "The car tire burst loudly on the highway.",
+      "dialogue": "'Well, that's just great,' Rachel sighed.",
+      "after_context": "'Let's pull over safely,' Ben suggested.",
+      "sarcastic": true
+    },
+    {
+      "id": 48,
+      "previous_context": "The storm knocked out the electricity across the neighborhood.",
+      "dialogue": "Lisa held her children close for comfort.",
+      "after_context": "'We should find some candles,' she suggested.",
+      "sarcastic": false
+    },
+    {
+      "id": 49,
+      "previous_context": "The restaurant served the completely wrong meal.",
+      "dialogue": "'This has peanuts in it, I think they're tryna kill me,' David muttered.",
+      "after_context": "'Excuse me, I think this is someone else's order,' he told the waiter.",
+      "sarcastic": true
+    },
+    {
+      "id": 50,
+      "previous_context": "In the middle of their big fight, the elevator suddenly stopped between floors.",
+      "dialogue": "'Great, now I get to spend even more time with you,' Sophia grumbled.",
+      "after_context": "'Let's press the emergency button,' Ethan suggested.",
+      "sarcastic": true
+    },
+    {
+      "id": 51,
+      "previous_context": "'Congratulations on your pregnancy', said Maya.",
+      "dialogue": "'I'm really happy for you', said Maya.",
+      "after_context": "Thank you so much, said Olivia.",
+      "sarcastic": false
+    },
+    {
+        "id": 52,
+        "previous_context": "The campfire crackled softly in the dark forest.",
+        "dialogue": "The flames flickered and sparks drifted upward into the night sky.",
+        "after_context": "Everyone sat quietly, enjoying the warmth after a long day of hiking.",
+        "sarcastic": false
+    },
+    {
+        "id": 53,
+        "previous_context": "Morning sunlight filtered through the curtains.",
+        "dialogue": "Golden rays stretched across the wooden floor.",
+        "after_context": "Emma slowly opened her eyes and listened to the quiet house.",
+        "sarcastic": false
+    },
+    {
+        "id": 54,
+        "previous_context": "The old library smelled of paper and dust.",
+        "dialogue": "Tall shelves leaned under the weight of countless books.",
+        "after_context": "Daniel wandered through the aisles, searching for a forgotten story.",
+        "sarcastic": false
+    },
+    {
+        "id": 55,
+        "previous_context": "Snow fell gently over the small village.",
+        "dialogue": "White flakes settled on rooftops and quiet streets.",
+        "after_context": "Children watched from their windows, waiting for morning to play outside.",
+        "sarcastic": false
+    },
+    {
+        "id": 56,
+        "previous_context": "The train slowed as it approached the station.",
+        "dialogue": "Metal wheels screeched softly against the rails.",
+        "after_context": "Passengers gathered their bags and stood near the doors.",
+        "sarcastic": false
+    },
+    {
+        "id": 57,
+        "previous_context": "A warm breeze moved across the meadow.",
+        "dialogue": "Tall grass swayed like gentle waves in the sunlight.",
+        "after_context": "Liam watched the horizon and felt the calm of the afternoon.",
+        "sarcastic": false
+    },
+    {
+        "id": 58,
+        "previous_context": "The classroom was quiet during the exam.",
+        "dialogue": "Only the scratching of pencils broke the silence.",
+        "after_context": "Students leaned over their desks with careful concentration.",
+        "sarcastic": false
+    },
+    {
+        "id": 59,
+        "previous_context": "The harbor was busy at dawn.",
+        "dialogue": "Fishing boats rocked gently beside the wooden docks.",
+        "after_context": "Seagulls circled overhead as workers prepared their nets.",
+        "sarcastic": false
+    },
+    {
+        "id": 60,
+        "previous_context": "Thunder rumbled far away in the hills.",
+        "dialogue": "Dark clouds gathered slowly across the sky.",
+        "after_context": "The travelers quickened their pace along the narrow road.",
+        "sarcastic": false
+    },
+    {
+        "id": 61,
+        "previous_context": "The bakery door opened with a small bell.",
+        "dialogue": "The smell of fresh bread filled the warm room.",
+        "after_context": "Customers lined up quietly at the counter.",
+        "sarcastic": false
+    },
+    {
+        "id": 62,
+        "previous_context": "The river moved steadily through the valley.",
+        "dialogue": "Clear water flowed over smooth stones.",
+        "after_context": "Maya knelt at the bank and watched the current pass.",
+        "sarcastic": false
+    },
+    {
+        "id": 63,
+        "previous_context": "Night settled over the desert camp.",
+        "dialogue": "Stars appeared one by one above the silent dunes.",
+        "after_context": "The travelers wrapped themselves in blankets beside the fire.",
+        "sarcastic": false
+    },
+    {
+        "id": 64,
+        "previous_context": "The museum hall was wide and quiet.",
+        "dialogue": "Ancient statues stood in long rows beneath soft lights.",
+        "after_context": "Visitors walked slowly, reading the small plaques.",
+        "sarcastic": false
+    },
+    {
+        "id": 65,
+        "previous_context": "Rain tapped gently on the roof.",
+        "dialogue": "Small drops slid down the windowpane.",
+        "after_context": "Oliver sat by the glass and listened to the steady rhythm.",
+        "sarcastic": false
+    },
+    {
+        "id": 66,
+        "previous_context": "The garden was bright with color.",
+        "dialogue": "Butterflies drifted lazily between the flowers.",
+        "after_context": "Clara watered the plants in the quiet afternoon.",
+        "sarcastic": false
+    },
+    {
+        "id": 67,
+        "previous_context": "The path wound through the dense forest.",
+        "dialogue": "Tall trees stretched high above the narrow trail.",
+        "after_context": "Ethan followed the route carefully with a small map.",
+        "sarcastic": false
+    },
+    {
+        "id": 68,
+        "previous_context": "The stadium lights shone brightly over the field.",
+        "dialogue": "The crowd murmured with anticipation.",
+        "after_context": "Players gathered near the center line before the match began.",
+        "sarcastic": false
+    },
+    {
+        "id": 69,
+        "previous_context": "The lighthouse stood alone on the rocky coast.",
+        "dialogue": "Its bright beam swept slowly across the dark ocean.",
+        "after_context": "Sailors watched for the signal as they guided their ships.",
+        "sarcastic": false
+    },
+    {
+        "id": 70,
+        "previous_context": "The small café overlooked the quiet street.",
+        "dialogue": "Steam rose from cups of freshly brewed coffee.",
+        "after_context": "People chatted softly at the nearby tables.",
+        "sarcastic": false
+    },
+    {
+        "id": 71,
+        "previous_context": "The mountain air felt cool and fresh.",
+        "dialogue": "Clouds drifted slowly past the distant peaks.",
+        "after_context": "Nora paused on the trail to take in the view.",
+        "sarcastic": false
+    },
+    {
+        "id": 72,
+        "previous_context": "The clock in the hallway ticked steadily.",
+        "dialogue": "Each second echoed through the quiet house.",
+        "after_context": "Henry waited patiently for the phone to ring.",
+        "sarcastic": false
+    },
+    {
+        "id": 73,
+        "previous_context": "The market square filled with people.",
+        "dialogue": "Vendors called out while arranging fruit and vegetables.",
+        "after_context": "Shoppers moved from stall to stall in the morning light.",
+        "sarcastic": false
+    },
+    {
+        "id": 74,
+        "previous_context": "The lake was calm in the early morning.",
+        "dialogue": "A thin mist floated above the still water.",
+        "after_context": "Kayakers prepared their boats along the shore.",
+        "sarcastic": false
+    },
+    {
+        "id": 75,
+        "previous_context": "The workshop smelled of wood shavings.",
+        "dialogue": "Tools hung neatly along the wall.",
+        "after_context": "The carpenter measured a board carefully before cutting.",
+        "sarcastic": false
+    },
+    {
+        "id": 76,
+        "previous_context": "The city slowly came alive at sunrise.",
+        "dialogue": "Cars rolled through the streets as shop lights turned on.",
+        "after_context": "Commuters stepped onto sidewalks to begin their day.",
+        "sarcastic": false
+    },
+    {
+        "id": 77,
+        "previous_context": "Emma Woodhouse was beginning to be tired of society.",
+        "dialogue": "She thought her time better spent walking in the fields near Hartfield than attending any assembly this season.",
+        "after_context": "The sky was calm and the earth smelled of spring.",
+        "sarcastic": false
+    },
+    {
+        "id": 78,
+        "previous_context": "Mr. Knightley spoke with an earnest voice.",
+        "dialogue": "He reminded Emma that her interference might have consequences she had not yet foreseen.",
+        "after_context": "Emma listened carefully to his advice.",
+        "sarcastic": false
+    },
+    {
+        "id": 79,
+        "previous_context": "The carriage drew up before the door.",
+        "dialogue": "A young woman alighted and looked around with bright eyes.",
+        "after_context": "She seemed eager to explore the new town with all its streets and shops.",
+        "sarcastic": false
+    },
+    {
+        "id": 80,
+        "previous_context": "Elizabeth Bennet walked across the garden.",
+        "dialogue": "Her mind was full of thoughts about the future spring dances.",
+        "after_context": "The rising sun cast a warm glow across the hedges.",
+        "sarcastic": false
+    },
+    {
+        "id": 81,
+        "previous_context": "The sunset bathed the valley in orange and red.",
+        "dialogue": "Each hill seemed lit by fire as the evening approached.",
+        "after_context": "Birds called softly from distant trees.",
+        "sarcastic": false
+    },
+    {
+        "id": 82,
+        "previous_context": "He opened the ancient book gently.",
+        "dialogue": "The pages were brittle but the ink was clear with age.",
+        "after_context": "Nothing felt more sacred than discovering its secrets for the first time.",
+        "sarcastic": false
+    },
+    {
+        "id": 83,
+        "previous_context": "The guests entered the great hall at dusk.",
+        "dialogue": "The chandeliers blazed with light and reflected off the polished floors.",
+        "after_context": "Laughter and music filled every corner of the room.",
+        "sarcastic": false
+    },
+    {
+        "id": 84,
+        "previous_context": "She stood by the window, watching raindrops fall.",
+        "dialogue": "It was a gentle rain that whispered against the glass.",
+        "after_context": "Her thoughts wandered from one memory to another.",
+        "sarcastic": false
+    },
+    {
+        "id": 85,
+        "previous_context": "The river flowed smoothly under the wooden bridge.",
+        "dialogue": "Small fish darted beneath the surface.",
+        "after_context": "At sunset the water mirrored the amber sky.",
+        "sarcastic": false
+    },
+    {
+        "id": 86,
+        "previous_context": "The explorer adjusted his compass.",
+        "dialogue": "He knew the path ahead would test every ounce of his courage.",
+        "after_context": "Still, he felt a thrill of excitement at the challenge.",
+        "sarcastic": false
+    },
+    {
+        "id": 87,
+        "previous_context": "They arrived at the old stone church.",
+        "dialogue": "Its tall spire cast a shadow across the quiet village street.",
+        "after_context": "The warmth of Sunday afternoon wrapped everyone in contentment.",
+        "sarcastic": false
+    },
+    {
+        "id": 88,
+        "previous_context": "The market bustled with activity.",
+        "dialogue": "Vendors called out prices while customers examined fresh goods.",
+        "after_context": "Children weaved through the crowded stalls happily.",
+        "sarcastic": false
+    },
+    {
+        "id": 89,
+        "previous_context": "The scholar paced slowly down the hallway.",
+        "dialogue": "His mind was fixated on the argument he had drafted that morning.",
+        "after_context": "He paused to gather his thoughts before entering the lecture room.",
+        "sarcastic": false
+    },
+    {
+        "id": 90,
+        "previous_context": "The breeze rustled through the autumn leaves.",
+        "dialogue": "Each tree seemed to whisper tales of seasons past.",
+        "after_context": "She breathed the crisp air deeply and felt alive.",
+        "sarcastic": false
+    },
+    {
+        "id": 91,
+        "previous_context": "They sat under an oak tree by the meadow.",
+        "dialogue": "Sunlight danced on the blades of grass like fleeting spirits.",
+        "after_context": "It was a moment neither wished to forget.",
+        "sarcastic": false
+    },
+    {
+        "id": 92,
+        "previous_context": "The young poet lifted his pen in quiet contemplation.",
+        "dialogue": "He tried to find the perfect words to capture the dawn’s beauty.",
+        "after_context": "His page filled slowly with delicate lines.",
+        "sarcastic": false
+    },
+    {
+        "id": 93,
+        "previous_context": "At first light the town stirred to life.",
+        "dialogue": "Bakers opened their ovens while farmers led cattle to pasture.",
+        "after_context": "The scent of fresh bread mingled with dew‑soaked grass.",
+        "sarcastic": false
+    },
+    {
+        "id": 94,
+        "previous_context": "The gentle waves lapped against the shore.",
+        "dialogue": "Shells and seaweed lay scattered where the tides had reached.",
+        "after_context": "Above, gulls wheeled lazily in the blue sky.",
+        "sarcastic": false
+    },
+    {
+        "id": 95,
+        "previous_context": "She closed the cottage door softly.",
+        "dialogue": "A warm fire crackled in the hearth.",
+        "after_context": "Outside, winter winds threatened snow.",
+        "sarcastic": false
+    },
+    {
+        "id": 96,
+        "previous_context": "The clock struck midnight in the lonely house.",
+        "dialogue": "Every tick seemed louder in the silent rooms.",
+        "after_context": "Yet no one stirred, for sleep held them fast.",
+        "sarcastic": false
+    },
+    {
+        "id": 97,
+        "previous_context": "The boy ran toward the field with eager steps.",
+        "dialogue": "His laughter echoed across the open land.",
+        "after_context": "He chased the drifting clouds until evening fell.",
+        "sarcastic": false
+    },
+    {
+        "id": 98,
+        "previous_context": "The ancient oak stood firm after countless storms.",
+        "dialogue": "Its thick trunk bore marks of time that no one could erase.",
+        "after_context": "Travelers paused beneath its shade with reverence.",
+        "sarcastic": false
+    },
+    {
+        "id": 99,
+        "previous_context": "The caravan moved in steady formation through the desert.",
+        "dialogue": "Camels plodded over sand rippling beneath the sun.",
+        "after_context": "Dunes gleamed golden as far as the eye could see.",
+        "sarcastic": false
+    },
+    {
+        "id": 100,
+        "previous_context": "The children circled the maypole with bright ribbons.",
+        "dialogue": "Music swelled from fiddles and flutes.",
+        "after_context": "Laughter rose as flowers bloomed in the warm spring breeze.",
+        "sarcastic": false
+    },
+    {
+        "id": 101,
+        "previous_context": "The library’s tall windows captured shafts of light.",
+        "dialogue": "Bookshelves towered in rows of wisdom and history.",
+        "after_context": "She felt peace among the quiet shelves.",
+        "sarcastic": false
+    },
+    {
+        "id": 102,
+        "previous_context": "The garden gate squeaked in the gentle wind.",
+        "dialogue": "Rows of lavender nodded beneath the afternoon sun.",
+        "after_context": "Bees hummed lazily among the blossoms.",
+        "sarcastic": false
+    },
+    {
+        "id": 103,
+        "previous_context": "The captain surveyed the calm sea from his deck.",
+        "dialogue": "A distant gull cried against a sky wide with blue.",
+        "after_context": "He felt a steady serenity in the steady motion of the waves.",
+        "sarcastic": false
+    },
+    {
+        "id": 104,
+        "previous_context": "The first snow blanketed the village in quiet white.",
+        "dialogue": "Footprints marked the path where neighbors had passed.",
+        "after_context": "Children pressed their faces to frosty windows inside.",
+        "sarcastic": false
+    },
+    {
+        "id": 105,
+        "previous_context": "The banquet table was set with gleaming silver and crystal.",
+        "dialogue": "Guests murmured at the sumptuous feast laid before them.",
+        "after_context": "Candles flickered warm against rich tapestries.",
+        "sarcastic": false
+    },
+    {
+        "id": 106,
+        "previous_context": "The old clockmaker worked with meticulous care.",
+        "dialogue": "Each tiny gear fit precisely within the ticking heart.",
+        "after_context": "Time unfolded its mysteries in each measured second.",
+        "sarcastic": false
+    },
+    {
+        "id": 107,
+        "previous_context": "The rider galloped across open plains at dawn.",
+        "dialogue": "His horse’s mane streamed back like banners in the wind.",
+        "after_context": "The horizon blazed with promise of a new day.",
+        "sarcastic": false
+    },
+    {
+        "id": 108,
+        "previous_context": "She opened the letter with fingers trembling lightly.",
+        "dialogue": "The words warmed her heart as she read each line.",
+        "after_context": "Tears came not of sorrow but relief.",
+        "sarcastic": false
+    },
+    {
+        "id": 109,
+        "previous_context": "The forest path wound deeper between towering pines.",
+        "dialogue": "Sunlight scattered gold upon mossy earth.",
+        "after_context": "Each step carried a whisper of forgotten wonders.",
+        "sarcastic": false
+    },
+    {
+        "id": 110,
+        "previous_context": "The festival brightened the village square with color.",
+        "dialogue": "Banners swayed as people danced in jubilation.",
+        "after_context": "Music echoed into the cooling night air.",
+        "sarcastic": false
+    },
+    {
+        "id": 111,
+        "previous_context": "They watched the distant lightning across the plain.",
+        "dialogue": "Thunder followed with steady rumble through heavy clouds.",
+        "after_context": "Rain began to fall in cascading sheets.",
+        "sarcastic": false
+    },
+    {
+        "id": 112,
+        "previous_context": "The apprentice knelt beside the glowing forge.",
+        "dialogue": "Sparks flew like fleeting stars in his careful labor.",
+        "after_context": "Heat and purpose united in the shaping of steel.",
+        "sarcastic": false
+    },
+    {
+        "id": 113,
+        "previous_context": "Birdsong filled the meadow with bright melodies.",
+        "dialogue": "Each note seemed a greeting to the rising day.",
+        "after_context": "Dew hummed under feet light with morning delight.",
+        "sarcastic": false
+    },
+    {
+        "id": 114,
+        "previous_context": "The merchant arranged his wares with exact precision.",
+        "dialogue": "Shoppers admired the fabrics and trinkets gleaming in the sun.",
+        "after_context": "Trade opened with cheer as bells chimed from the nearby steeple.",
+        "sarcastic": false
+    },
+    {
+        "id": 115,
+        "previous_context": "The lighthouse beam reached far across stormy seas.",
+        "dialogue": "Waves crashed against rugged rocks below.",
+        "after_context": "Sailors watched eagerly for each flash of guiding light.",
+        "sarcastic": false
+    },
+    {
+        "id": 116,
+        "previous_context": "The winter wind carved frost on every windowpane.",
+        "dialogue": "Inside, families gathered near the hearth in warm contentment.",
+        "after_context": "Outside, snowflakes danced like timid spirits in moonlight.",
+        "sarcastic": false
+    },
+    {
+        "id": 117,
+        "previous_context": "The artist mixed colors on his battered palette.",
+        "dialogue": "He adjusted each shade until it matched his vision perfectly.",
+        "after_context": "The canvas bloomed with scenes inspired by memory.",
+        "sarcastic": false
+    },
+    {
+        "id": 118,
+        "previous_context": "The doors of the cathedral opened at dawn.",
+        "dialogue": "Sunlight streamed through stained glass windows of red and blue.",
+        "after_context": "The faithful knelt in humble prayer.",
+        "sarcastic": false
+    },
+    {
+        "id": 119,
+        "previous_context": "Cattle grazed peacefully beyond the wooden fence.",
+        "dialogue": "Their low calls blended with rustling grass under warm sun.",
+        "after_context": "Shadows stretched long toward a quiet afternoon.",
+        "sarcastic": false
+    },
+    {
+        "id": 120,
+        "previous_context": "The scholar closed his notebook at twilight.",
+        "dialogue": "Thoughts of discovery lingered in his mind like embers.",
+        "after_context": "Stars appeared in clusters above cool fields.",
+        "sarcastic": false
+    },
+    {
+        "id": 121,
+        "previous_context": "The children gathered wildflowers in early summer.",
+        "dialogue": "Petals fell softly like confetti in their jubilant hands.",
+        "after_context": "Later they wove crowns to wear in playful honor.",
+        "sarcastic": false
+    },
+    {
+        "id": 122,
+        "previous_context": "The captain’s voice carried over the restless deck.",
+        "dialogue": "Orders were given with calm authority as sails were adjusted.",
+        "after_context": "The ship moved onward beneath a bright horizon.",
+        "sarcastic": false
+    },
+    {
+        "id": 123,
+        "previous_context": "A hush fell as the orchestra began to play.",
+        "dialogue": "Music soared with graceful harmony into the spacious hall.",
+        "after_context": "Listeners leaned forward, enraptured by every note.",
+        "sarcastic": false
+    },
+    {
+        "id": 124,
+        "previous_context": "The quiet town awoke to gentle sunshine.",
+        "dialogue": "Chickens clucked on farmsteads as roosters crowed their morning song.",
+        "after_context": "Smoke rose from chimneys blending with fresh blue sky.",
+        "sarcastic": false
+    },
+    {
+        "id": 125,
+        "previous_context": "The old garden bench stood beneath apple trees.",
+        "dialogue": "Blossoms fell softly like snow in fragrant handfuls.",
+        "after_context": "She remembered afternoons long since passed.",
+        "sarcastic": false
+    },
+    {
+        "id": 126,
+        "previous_context": "Twilight settled over the rolling hills.",
+        "dialogue": "Lanterns began to glow in distant cottages one by one.",
+        "after_context": "Night’s peaceful blanket spread slowly across the land.",
+        "sarcastic": false
+    },
+  {
+    "id": 127,
+    "previous_context": "The butler eyed the muddy boots with overt disapproval.",
+    "dialogue": "'Yes, please do track more filth through my spotless hallways—it’s exactly the decoration I was missing,' he grumbled.",
+    "after_context": "He handed the guest a towel with a smile as thin as old parchment.",
+    "sarcastic": true
+  },
+  {
+    "id": 128,
+    "previous_context": "The hostess welcomed yet another late arrival.",
+    "dialogue": "'Oh, of course, don’t rush as punctuality is so dreadfully overrated,' she hissed.",
+    "after_context": "Her guests exchanged weary glances at the growing list of excuses.",
+    "sarcastic": true
+  },
+  {
+    "id": 129,
+    "previous_context": "He surveyed the tepid supper on the table.",
+    "dialogue": "'How thrilling—cold stew again! Just what my heart has been aching for,' he declared with mock enthusiasm.",
+    "after_context": "His companions chuckled awkwardly between bites.",
+    "sarcastic": true
+  },
+  {
+    "id": 130,
+    "previous_context": "The carriage creaked under yet another passenger.",
+    "dialogue": "'Oh splendid, more weight! I so enjoy the thrilling sensation of imminent collapse,' the driver exclaimed.",
+    "after_context": "The horses snorted as though sharing his lack of enthusiasm.",
+    "sarcastic": true
+  },
+  {
+    "id": 131,
+    "previous_context": "The librarian frowned at the noisy children.",
+    "dialogue": "'Yes please, shatter the silence with all the thunderous delight you can muster,' she said.",
+    "after_context": "Shelves of ancient tomes seemed to shudder at the racket.",
+    "sarcastic": true
+  },
+  {
+    "id": 132,
+    "previous_context": "He opened a damp letter by lantern light.",
+    "dialogue": "He muttered to himself, 'wonderful—another invitation to endure the grand joy of social obligation'.",
+    "after_context": "Outside, cold wind rattled the shutters with cruel timing.",
+    "sarcastic": true
+  },
+  {
+    "id": 133,
+    "previous_context": "The mayor stood before the assembly.",
+    "dialogue": "'Please, raise your applause—my speech grows ever more riveting by the moment,' he said.",
+    "after_context": "The crowd pretended enthusiasm behind polite smiles.",
+    "sarcastic": true
+  },
+  {
+    "id": 134,
+    "previous_context": "The rain fell without mercy on the parade.",
+    "dialogue": "'Marvelous! A downpour—just what a splendid parade needs to reach its full dramatic potential,' he exclaimed.",
+    "after_context": "Spectators huddled in complaint beneath dripping umbrellas.",
+    "sarcastic": true
+  },
+  {
+    "id": 135,
+    "previous_context": "She was presented with yet another dull suitor.",
+    "dialogue": "'Oh joy—another gentleman with all the charm of damp linen,' she muttered.",
+    "after_context": "She forced a polite smile and sipped her tea.",
+    "sarcastic": true
+  },
+  {
+    "id": 136,
+    "previous_context": "The host had been checking his watch repeatedly when Emily finally arrived.",
+    "dialogue": "'No, please take your time as my evening has nothing better to offer than watching you dawdle,' he said.",
+    "after_context": "Guests shifted in their seats, assessing Emily with thinly veiled impatience.",
+    "sarcastic": true
+  },
+  {
+    "id": 137,
+    "previous_context": "The apprentice returned with a crooked hat.",
+    "dialogue": "'Perfect! I always dreamed of wearing a bonnet that resembles a collapsed tent,' he said.",
+    "after_context": "His mentor grabbed the hat and inspected it with exaggerated scrutiny.",
+    "sarcastic": true
+  },
+  {
+    "id": 138,
+    "previous_context": "The traveler found his lodging lacked heat.",
+    "dialogue": "'Ah yes, I longed for the crisp chill of frigid evenings indoors,' he said with a shiver.",
+    "after_context": "He pulled his coat tighter as embers died in the hearth.",
+    "sarcastic": true
+  },
+  {
+    "id": 139,
+    "previous_context": "The chef presented a dubious stew.",
+    "dialogue": "The duke peered suspiciously at the bowl and said, 'Delicious! I was just craving a meal that could double as a science experiment'.",
+    "after_context": "No one at the table dared take a spoonful as the duke inspected it with growing suspicion.",
+    "sarcastic": true
+  },
+  {
+    "id": 140,
+    "previous_context": "The gardener explained the weeds had taken over.",
+    "dialogue": "The mistress of the house said, 'Brilliant! Nothing screams cultivated beauty like rampant vegetation everywhere.'",
+    "after_context": "She surveyed the tangled beds with agitation as she pondered how the guests at her party would react.",
+    "sarcastic": true
+  },
+  {
+    "id": 141,
+    "previous_context": "A royal decree brought news that the king had declared a contest for all fair maidens to win his hand.",
+    "dialogue": "Angelina, an eligible maiden with no interest in the king said, 'Oh joy—what a thrilling opportunity to compete for the affection of a total dud'.",
+    "after_context": "Her mother rubbed her back in sympathy.",
+    "sarcastic": true
+  },
+  {
+    "id": 142,
+    "previous_context": "The poet recited his newest work to an expecting audience that over time realized a total lack of interest.",
+    "dialogue": "'Wonderful! I was just hoping to hear a poem that could put an entire room to sleep,' a spectator whispered.",
+    "after_context": "As the poem dragged on, the audience prayed for mercy in polite silence.",
+    "sarcastic": true
+  },
+
+    {
+      "id": 143,
+      "previous_context": "The office elevator has been broken for three consecutive days.",
+      "dialogue": "'I am so tired of climbing six flights of stairs every morning,' Mark groaned.",
+      "after_context": "He sat at his desk, catching his breath and looking exhausted.",
+      "sarcastic": false
+    },
+    {
+      "id": 144,
+      "previous_context": "The air conditioning in the building stopped working during a heatwave.",
+      "dialogue": "'It is absolutely stifling in here; I can't concentrate on my work,' Sarah complained.",
+      "after_context": "She wiped sweat from her forehead and tried to fan herself with a folder.",
+      "sarcastic": false
+    },
+    {
+      "id": 145,
+      "previous_context": "A coworker had been eating pungent fish at their desk for an hour.",
+      "dialogue": "'That smell is actually making me feel a bit nauseous,' James whispered to his neighbor.",
+      "after_context": "He opened a window to try and get some fresh air into the room.",
+      "sarcastic": false
+    },
+    {
+      "id": 146,
+      "previous_context": "The company announced that there would be no bonuses for the second year in a row.",
+      "dialogue": "'This is really disappointing news after how hard we all worked,' the lead developer said.",
+      "after_context": "The room remained silent as everyone processed the financial blow.",
+      "sarcastic": false
+    },
+    {
+      "id": 147,
+      "previous_context": "Jessica noticed her manager had not washed his gym clothes in weeks.",
+      "dialogue": "'He really needs to use some stronger detergent; the smell is overwhelming,' she told Sarah.",
+      "after_context": "Sarah nodded in agreement, keeping her distance from the manager's office.",
+      "sarcastic": false
+    },
+    {
+      "id": 148,
+      "previous_context": "The software update caused the entire system to crash right before the deadline.",
+      "dialogue": "'This is a total disaster, we're going to lose all our progress,' the intern cried out.",
+      "after_context": "He put his head in his hands, staring at the blue screen of death.",
+      "sarcastic": false
+    },
+    {
+      "id": 149,
+      "previous_context": "Heavy rain started pouring just as the group began their three-mile hike.",
+      "dialogue": "'Now my boots are completely soaked and I'm freezing cold,' the guide muttered.",
+      "after_context": "He adjusted his pack and looked gloomily at the muddy trail ahead.",
+      "sarcastic": false
+    },
+    {
+      "id": 150,
+      "previous_context": "The cafeteria served mystery meat that looked and smelled questionable.",
+      "dialogue": "'I don't think this is safe to eat; it looks undercooked,' the student remarked.",
+      "after_context": "He pushed the tray away and decided to just eat an apple instead.",
+      "sarcastic": false
+    },
+    {
+      "id": 151,
+      "previous_context": "A man on the train was playing loud music through his speakers without headphones.",
+      "dialogue": "'This is so inconsiderate and annoying for everyone else,' a commuter grumbled.",
+      "after_context": "She put on her own noise-canceling headphones to drown out the sound.",
+      "sarcastic": false
+    },
+    {
+      "id": 152,
+      "previous_context": "The printer jammed for the fifth time in a single afternoon.",
+      "dialogue": "'I hate this machine so much, it never works when I'm in a hurry,' the clerk shouted.",
+      "after_context": "He kicked the side of the printer in a fit of brief frustration.",
+      "sarcastic": false
+    }
+
+  ]
+}

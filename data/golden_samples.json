@@ -1,0 +1,132 @@
+{
+  "golden_test_set": [
+    {
+      "id": 1,
+      "text": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "label": "sincere",
+      "context": {
+        "source": "Pride and Prejudice - Jane Austen",
+        "speaker": "Omniscient narrator",
+        "listener": "Reader",
+        "tone": "Ironic social commentary (sincere in narrative intent)"
+      },
+      "explanation": "While this sounds sarcastic by modern standards, it's the sincere opening to Austen's novel, setting up the societal truth of the era."
+    },
+    {
+      "id": 2,
+      "text": "Oh, how delightful! Another ball. As if my life lacked purpose before, now I shall finally know fulfillment through the waltz.",
+      "label": "sarcastic",
+      "context": {
+        "source": "Fictional dialogue inspired by Austen",
+        "speaker": "Weary debutante",
+        "listener": "Her enthusiastic chaperone",
+        "tone": "Heavy sarcasm with exaggeration"
+      },
+      "explanation": "The hyperbole and false enthusiasm reveal the speaker's actual disdain for balls."
+    },
+    {
+      "id": 3,
+      "text": "I can resist everything except temptation.",
+      "label": "sarcastic",
+      "context": {
+        "source": "The Picture of Dorian Gray - Oscar Wilde",
+        "speaker": "Lord Henry Wotton",
+        "listener": "Dorian Gray",
+        "tone": "Paradoxical wit"
+      },
+      "explanation": "Wilde's characteristic paradox: the statement contradicts itself to make a point about human weakness with ironic wit."
+    },
+    {
+      "id": 4,
+      "text": "So long, and thanks for all the fish.",
+      "label": "sarcastic",
+      "context": {
+        "source": "The Hitchhiker's Guide to the Galaxy - Douglas Adams",
+        "speaker": "The Dolphins",
+        "listener": "Humanity",
+        "tone": "Sarcastic farewell disguised as politeness"
+      },
+      "explanation": "The dolphins' goodbye is sarcastic given they're leaving a dying Earth; gratitude is feigned for a species that failed to appreciate them."
+    },
+    {
+      "id": 5,
+      "text": "What a perfectly ghastly idea. How wonderfully tedious. I shall certainly attend.",
+      "label": "sarcastic",
+      "context": {
+        "source": "Fictional dialogue inspired by Wilde",
+        "speaker": "Cynical aristocrat",
+        "listener": "Event organizer",
+        "tone": "Biting sarcasm concealed as acceptance"
+      },
+      "explanation": "The contradiction between calling something 'ghastly' and 'tedious' yet agreeing to attend reveals clear sarcasm."
+    },
+    {
+      "id": 6,
+      "text": "The early morning mist hung over the valley, soft and impenetrable, as if nature herself wished to keep her secrets hidden.",
+      "label": "sincere",
+      "context": {
+        "source": "Fictional romantic novel",
+        "speaker": "Omniscient narrator",
+        "listener": "Reader",
+        "tone": "Lyrical description"
+      },
+      "explanation": "A sincere, poetic description using metaphor to convey atmosphere without irony or sarcasm."
+    },
+    {
+      "id": 7,
+      "text": "I find your company most agreeable, and your opinions, while occasionally misguided, are always expressed with admirable conviction.",
+      "label": "sincere",
+      "context": {
+        "source": "Fictional dialogue inspired by Victorian literature",
+        "speaker": "Elderly gentleman to younger acquaintance",
+        "listener": "The younger man",
+        "tone": "Formal compliment with gentle qualification"
+      },
+      "explanation": "Despite the structured formality and seeming criticism, this is a sincere compliment acknowledging both strengths and limitations."
+    },
+    {
+      "id": 8,
+      "text": "The old clock chimed midnight with the regularity of a heartbeat, steady and unmoved by the chaos unfolding beneath its gaze.",
+      "label": "sincere",
+      "context": {
+        "source": "Mystery novel",
+        "speaker": "Omniscient narrator",
+        "listener": "Reader",
+        "tone": "Symbolic imagery"
+      },
+      "explanation": "A sincere use of extended metaphor to establish tone and foreshadow the story's emotional distance."
+    },
+    {
+      "id": 9,
+      "text": "Of course, he was an utter fool to believe her promises, which showed either touching faith or abysmal stupidity—perhaps both.",
+      "label": "sincere",
+      "context": {
+        "source": "Character analysis in literary fiction",
+        "speaker": "Omniscient narrator",
+        "listener": "Reader",
+        "tone": "Analytical ambiguity"
+      },
+      "explanation": "While critical, this is a sincere character assessment weighing multiple interpretations, not sarcastic exaggeration."
+    },
+    {
+      "id": 10,
+      "text": "Yes, because nothing says 'I love you' quite like forgetting our anniversary and arriving home smelling of perfume that isn't mine.",
+      "label": "sarcastic",
+      "context": {
+        "source": "Contemporary drama dialogue",
+        "speaker": "Betrayed spouse",
+        "listener": "Unfaithful partner",
+        "tone": "Bitter, cutting sarcasm"
+      },
+      "explanation": "The speaker clearly means the opposite; the 'nothing says I love you' construction is a classic sarcastic reversal."
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "total_samples": 10,
+    "sarcastic_count": 5,
+    "sincere_count": 5,
+    "purpose": "Golden test set for training and evaluating the Sarcasm Detection Chatbot on fiction excerpts",
+    "difficulty": "Medium - Tests ability to distinguish between sincere formal language and genuine sarcasm"
+  }
+}

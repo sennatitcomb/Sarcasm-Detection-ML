@@ -1,0 +1,72 @@
+{
+  "human_test_set": [
+    {
+      "id": 1,
+      "text": "It is important to students to study hard and get good grades to succeed in life.",
+      "label": "sincere",
+      "explanation": "Students are often encouraged to study hard and achieve good grades as a path to success, making this a straightforward sincere statement."
+    },
+    {
+      "id": 2,
+      "text": "I have a big pimple on my face, I'm just so excited to go to the party!",
+      "label": "sarcastic",
+      "explanation": "The exaggerated excitement about a negative situation (having a big pimple) suggests that the speaker is being sarcastic about their enthusiasm for the party."
+    },
+    {
+      "id": 3,
+      "text": "Call me Einstein because I just failed my math test without even trying.",
+      "label": "sarcastic",
+      "explanation": "The reference to Einstein, a symbol of intelligence, in the context of failing a math test without effort is a clear use of sarcasm to highlight the speaker's lack of success."
+    },
+    {
+      "id": 4,
+      "text": "I can't wait to spend my weekend doing laundry and cleaning the house, it's going to be so much fun!",
+      "label": "sarcastic",
+      "explanation": "The exaggerated enthusiasm for mundane tasks suggests sarcasm."
+    },
+    {
+      "id": 5,
+      "text": "Oh wow, I get to spend time alone, again.",
+      "label": "sarcastic",
+      "explanation": "The statement implies that the speaker is not actually excited about spending time alone, and the use of 'again' suggests a sense of boredom or frustration, indicating sarcasm."
+    },
+    {
+      "id": 6,
+      "text": "I actually love rainy days; they make me feel cozy and relaxed.",
+      "label": "sincere",
+      "explanation": "This statement expresses a genuine positive sentiment towards rainy days, indicating that the speaker sincerely enjoys them."
+    },
+    {
+      "id": 7,
+      "text": "My manager is so funny, I don't mind the interruptions.",
+      "label": "sincere",
+      "explanation": "This statement expresses a genuine positive sentiment towards the manager, indicating that the speaker sincerely finds them amusing."
+    },
+    {
+      "id": 8,
+      "text": "It was with a sigh of defeat and a heavy heart that he said goodbye to the fair maiden.",
+      "label": "sincere",
+      "explanation": "The language used here is formal and poetic, suggesting a sincere expression of emotion rather than sarcasm."
+    },
+    {
+      "id": 9,
+      "text": "I was dancing all night long!",
+      "label": "sincere",
+      "explanation": "This statement is straightforward and lacks any indicators of sarcasm, suggesting that the speaker is genuinely expressing enjoyment of dancing all night."
+    },
+    {
+      "id": 10,
+      "text": "Well if it isn't my favorite person.",
+      "label": "sarcastic",
+      "explanation": "The use of 'Well if it isn't' often precedes a sarcastic remark, and the phrase 'my favorite person' is likely being used ironically to indicate that the speaker does not actually consider the person their favorite."
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "total_samples": 10,
+    "sarcastic_count": 5,
+    "sincere_count": 5,
+    "purpose": "Human created test set for training and evaluating the Sarcasm Detection Chatbot on various sentences",
+    "difficulty": "Medium - Tests ability to distinguish between sincere formal language and genuine sarcasm"
+  }
+}
