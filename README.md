@@ -147,17 +147,6 @@ print(detector.format_results(result))
 
 ---
 
-## Fine-Tuning
-
-The pre-trained model works well but can be improved for your specific use case. See [COLAB_FINE_TUNING.md](COLAB_FINE_TUNING.md) for a complete guide to:
-
-- Fine-tuning on the Joshi et al. (2016) sarcasm dataset using Google Colab
-- Improving model accuracy from ~75% to ~85%+ F1 score
-- Reducing false positives on narrative text
-- Advanced techniques (ensemble, data augmentation, domain adaptation, etc.)
-
----
-
 ## Configuration
 
 ### Confidence Threshold
